@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chapte4_Ex</string>
+    <string name="btn_str">버튼입니다.</string>
+    <string name="text_str">텍스트뷰입니다.</string>
+    <string name="edit_str">여기에 입력하세요</string>
+    <string name="btn_str2">확인</string>
+</resources>
